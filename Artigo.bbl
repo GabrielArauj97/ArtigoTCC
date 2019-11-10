@@ -1,0 +1,56 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Chade 2018]{Chade2018}
+\abntrefinfo{Chade}{CHADE}{2018}
+{CHADE, J. \emph{China faz Copa de 2018 ter audiência recorde de 3,5 bilhões
+  de pessoas}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://esportes.estadao.com.br/noticias/futebol,china-faz-copa-de-2018-ter-audiencia-recorde-de-3-5-bilhoes-de-pessoas,70002654539}.
+  Acesso em: 17 jun 2019.}
+
+\bibitem[Duarte, Soares e Teixeira 2015]{Duarte2015}
+\abntrefinfo{Duarte, Soares e Teixeira}{DUARTE; SOARES; TEIXEIRA}{2015}
+{DUARTE, L.~M. da S.; SOARES, C.; TEIXEIRA, J.
+\emph{Previsão de resultados de jogos de futebol}.
+Disserta\c{c}\~{a}o (Mestrado) --- Faculdade da Engenharia da Universidade do
+  Porto, 2015.}
+
+\bibitem[FIFA 2018]{FIFA2018}
+\abntrefinfo{FIFA}{FIFA}{2018}
+{FIFA. \emph{FIFA Financial Report 2018}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://resources.fifa.com/image/upload/xzshsoe2ayttyquuxhq0.pdf}.
+  Acesso em: 17 jun 2019.}
+
+\bibitem[Martins et al. 2017]{Martins2017}
+\abntrefinfo{Martins et al.}{MARTINS et al.}{2017}
+{MARTINS, R.~G. et al. Exploring polynomial classifier to predict match results
+  in football championships.
+\emph{Expert Systems with Applications}, Elsevier {BV}, v.~83, p. 79--93, oct
+  2017.}
+
+\bibitem[Oetiker et al. 2001]{oetiker2001}
+\abntrefinfo{Oetiker et al.}{OETIKER et al.}{2001}
+{OETIKER, T. et al. \emph{The not so short introduction to LATEX
+  2$\varepsilon$}.
+[S.l.], 2001.}
+
+\bibitem[Perin, Vuillemot e Fekete 2013]{Perin2013}
+\abntrefinfo{Perin, Vuillemot e Fekete}{PERIN; VUILLEMOT; FEKETE}{2013}
+{PERIN, C.; VUILLEMOT, R.; FEKETE, J.~D. Soccerstories: A kick-off for visual
+  soccer analysis.
+\emph{IEEE Transactions on Visualization and Computer Graphics}, v.~19, n.~12,
+  p. 2506--2515, Dec 2013.
+ISSN 1077-2626.}
+
+\bibitem[Sfeir 2011]{Sfeir2011}
+\abntrefinfo{Sfeir}{SFEIR}{2011}
+{SFEIR, M.~N. Laws of the game (adapted from fifa 2010-11).
+\emph{World Literature Today}, v.~85, n.~3, p. 38--39, may 2011.}
+
+\end{thebibliography}
