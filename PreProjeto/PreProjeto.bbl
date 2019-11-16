@@ -1,0 +1,106 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Brooks, Kerr e Guttag 2016]{Brooks2016}
+\abntrefinfo{Brooks, Kerr e Guttag}{BROOKS; KERR; GUTTAG}{2016}
+{BROOKS, J.; KERR, M.; GUTTAG, J. Using machine learning to draw inferences
+  from pass location data in soccer.
+\textbf{Statistical Analysis and Data Mining: The {ASA} Data Science Journal},
+  Wiley, v.~9, n.~5, p. 338--349, jun 2016.}
+
+\bibitem[Chade 2018]{Chade2018}
+\abntrefinfo{Chade}{CHADE}{2018}
+{CHADE, J. \textbf{China faz Copa de 2018 ter audiência recorde de 3,5
+  bilhões de pessoas}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://esportes.estadao.com.br/noticias/futebol,china-faz-copa-de-2018-ter-audiencia-recorde-de-3-5-bilhoes-de-pessoas,70002654539}.
+  Acesso em: 17 jun 2019.}
+
+\bibitem[Constantinou, Fenton e Neil 2013]{Constantinou2013}
+\abntrefinfo{Constantinou, Fenton e Neil}{CONSTANTINOU; FENTON; NEIL}{2013}
+{CONSTANTINOU, A.~C.; FENTON, N.~E.; NEIL, M. Profiting from an inefficient
+  association football gambling market: Prediction, risk and uncertainty using
+  bayesian networks.
+\textbf{Knowledge-Based Systems}, Elsevier {BV}, v.~50, p. 60--86, sep 2013.}
+
+\bibitem[Duarte, Soares e Teixeira 2015]{Duarte2015}
+\abntrefinfo{Duarte, Soares e Teixeira}{DUARTE; SOARES; TEIXEIRA}{2015}
+{DUARTE, L.~M. da S.; SOARES, C.; TEIXEIRA, J.
+\textbf{Previsão de resultados de jogos de futebol}.
+Disserta\c{c}\~{a}o (Mestrado) --- Faculdade da Engenharia da Universidade do
+  Porto, 2015.}
+
+\bibitem[FIFA 2018]{FIFA2018}
+\abntrefinfo{FIFA}{FIFA}{2018}
+{FIFA. \textbf{FIFA Financial Report 2018}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://resources.fifa.com/image/upload/xzshsoe2ayttyquuxhq0.pdf}.
+  Acesso em: 17 jun 2019.}
+
+\bibitem[Hucaljuk e Rakipović 2011]{Hucaljuk2011}
+\abntrefinfo{Hucaljuk e Rakipović}{HUCALJUK; RAKIPOVIć}{2011}
+{HUCALJUK, J.; RAKIPOVIć, A. Predicting football scores using machine learning
+  techniques.
+\textbf{2011 Proceedings of the 34th International Convention MIPRO}, may
+  2011.}
+
+\bibitem[Igiri 2015]{Igiri2015}
+\abntrefinfo{Igiri}{IGIRI}{2015}
+{IGIRI, C.~P. Support vector machine–based prediction system for a football
+  match result.
+\textbf{{IOSR} Journal of Computer Engineering}, v.~17, n.~3, p. 21--26, jun
+  2015.}
+
+\bibitem[Martins et al. 2017]{Martins2017}
+\abntrefinfo{Martins et al.}{MARTINS et al.}{2017}
+{MARTINS, R.~G. et al. Exploring polynomial classifier to predict match results
+  in football championships.
+\textbf{Expert Systems with Applications}, Elsevier {BV}, v.~83, p. 79--93, oct
+  2017.}
+
+\bibitem[Owramipur e Mozneb 2013]{Parinaz2013}
+\abntrefinfo{Owramipur e Mozneb}{OWRAMIPUR; MOZNEB}{2013}
+{OWRAMIPUR, P.~E. F.; MOZNEB, F.~S. Football result prediction with bayesian
+  network in spanish league-barcelona team.
+\textbf{International Journal of Computer Theory and Engineering}, October
+  2013.}
+
+\bibitem[Pendharkar, Khosrowpour e Rodger 2000]{Pendharkar2000}
+\abntrefinfo{Pendharkar, Khosrowpour e Rodger}{PENDHARKAR; KHOSROWPOUR;
+  RODGER}{2000}
+{PENDHARKAR, P.~C.; KHOSROWPOUR, M.; RODGER, J.~A. Application of bayesian
+  network classifiers and data envelopment analysis for mining breast cancer
+  patterns.
+\textbf{Journal of Computer Information Systems}, v.~40, n.~4, p. 127--132,
+  2000.}
+
+\bibitem[Perin, Vuillemot e Fekete 2013]{Perin2013}
+\abntrefinfo{Perin, Vuillemot e Fekete}{PERIN; VUILLEMOT; FEKETE}{2013}
+{PERIN, C.; VUILLEMOT, R.; FEKETE, J.~D. Soccerstories: A kick-off for visual
+  soccer analysis.
+\textbf{IEEE Transactions on Visualization and Computer Graphics}, v.~19,
+  n.~12, p. 2506--2515, Dec 2013.
+ISSN 1077-2626.}
+
+\bibitem[Sfeir 2011]{Sfeir2011}
+\abntrefinfo{Sfeir}{SFEIR}{2011}
+{SFEIR, M.~N. Laws of the game (adapted from fifa 2010-11).
+\textbf{World Literature Today}, v.~85, n.~3, p. 38--39, may 2011.}
+
+\bibitem[Tax e Joustra 2015]{Tax2015}
+\abntrefinfo{Tax e Joustra}{TAX; JOUSTRA}{2015}
+{TAX, N.; JOUSTRA, Y. Predicting the dutch football competition using public
+  data: A machine learning approach.
+Unpublished, 2015.}
+
+\bibitem[Ulmer e Fernandez 2013]{Ulmer2013}
+\abntrefinfo{Ulmer e Fernandez}{ULMER; FERNANDEZ}{2013}
+{ULMER, B.; FERNANDEZ, M.
+\textbf{Predicting Soccer Match Results in the English Premier League}.
+Tese (Doutorado) --- Stanford University, 2013.}
+
+\end{thebibliography}
