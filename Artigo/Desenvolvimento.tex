@@ -1,1 +1,23 @@
 \section{DESENVOLVIMENTO}
+Machine Learning, termo em inglês para aprendizagem de máquina, é a capacidade de computadores aprenderem a tomarem decisões sem que sejam previamente programados para isso. Esse aprendizado, assim como acontece boa parte do aprendizado humano, se dá através de erros e acertos, que são obtidos através de algoritmos matemáticos. Esses algoritmos matemáticos trabalham classificando variáveis, por exemplo, queremos que um computador seja capaz de distinguir um ser humano de um gavião. Para que o computador seja capaz de fazer essa distinção, fornecemos variáveis que serão utilizadas pelos algoritmos matemáticos para realizar as classificações. Nesse caso, fornecemos variáveis como, possui asas, capacidade de falar, capacidade de voar, capacidade de caminhar, possui bico, põe ovos, entre outras. Assim, após o algoritmo analisar os dados, o computador poderá distinguir com facilidade humanos de gaviões. 
+É importante frisar que a qualidade da classificação se dá pela qualidade das variáveis, porque se utilizarmos variáveis como, possui olhos, respira, possui dedos ou ate mesmo se alimenta, nesse exemplo isso seria inútil para o algoritmo, uma vez que ambos os elementos comparados possuem essas características, assim, além de ser desprezível para o algoritmo, poderia até ser prejudicial para sua execução. 
+O objetivo desse projeto é criar um sistema que ajude no tratamento de dados para predição de partidas de futebol, sendo assim, utilizamos durante a execução do projeto bases de dados disponíveis no site football-data (*CITE*), e algumas das variáveis que utilizadas foram:
+\begin{itemize}
+	\item FTHG = Full Time Home Goals
+	\item FTAG = Full Time Away Team Goals
+	\item FTR = Full Time Result
+	\item HTHG = Half Time Home Team Goals
+	\item HTAG = Half Time Away Team Goals
+	\item HTR = Half Time Result
+	\item HS = Home Team Shots
+	\item AS = Away Team Shots
+	\item HST = Home Team Shots on Target
+	\item AST = Away Team Shots on Target
+	\item HHW = Home Team Hit Woodwork
+	\item AHW = Away Team Hit Woodwork
+	\item HC = Home Team Corners
+	\item AC = Away Team Corners
+\end{itemize}
+Essas variáveis apresentam importância significativa para os algoritmos, uma vez que podem determinar o andamento da partida e assim o resultado final.
+
+Para auxiliar esse processo de escolha de variáveis, foi criado um sistema que funciona da seguinte maneira: a página inicial é composta por dois elementos, sendo um botão do tipo input, que permite ao usuário a escolha da base de dados presente na máquina, e um outro botão do tipo submit que confirma o envio da base de dados para a pasta do projeto, para que seja utilizada nas demais telas. A segunda página é composta por uma tabela que lista todos os dados da base de dados, permitindo a visualização completa desses dados. Nessa tela também estão presentes um elemento select multiple, que permite que o usuário escolha as colunas que irá usar para a construção de uma nova base de dados apenas com os dados selecionados pelo usuário. A terceira página é responsável por listar os dado que foram selecionados na página anterior e gerar a base de dados limpa.

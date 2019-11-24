@@ -101,4 +101,9 @@ Unpublished, 2015.}
 \emph{Predicting Soccer Match Results in the English Premier League}.
 Tese (Doutorado) --- Stanford University, 2013.}
 
+\bibitem[Weka]{Weka}
+\abntrefinfo{Weka}{WEKA}{}
+{WEKA.
+Dispon{\'\i}vel em: \url{https://www.cs.waikato.ac.nz/ml/weka/}.}
+
 \end{thebibliography}
