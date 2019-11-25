@@ -41,6 +41,19 @@ Dispon{\'\i}vel em:
   \url{https://resources.fifa.com/image/upload/xzshsoe2ayttyquuxhq0.pdf}.
   Acesso em: 17 jun 2019.}
 
+\bibitem[G 2019]{Ariane2019}
+\abntrefinfo{G}{G}{2019}
+{G, A. \emph{O que é CSS? Guia Básico para Iniciantes}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/}.}
+
+\bibitem[Gonçalves 2012]{Goncalves2012}
+\abntrefinfo{Gonçalves}{GONçALVES}{2012}
+{GONçALVES, E.~C. \emph{Mineração de dados no MySQL com a ferramenta Weka}.
+  2012.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/mineracao-de-dados-no-mysql-com-a-ferramenta-weka/26360}.}
+
 \bibitem[Hucaljuk e Rakipović 2011]{Hucaljuk2011}
 \abntrefinfo{Hucaljuk e Rakipović}{HUCALJUK; RAKIPOVIć}{2011}
 {HUCALJUK, J.; RAKIPOVIć, A. Predicting football scores using machine learning
@@ -53,6 +66,24 @@ Dispon{\'\i}vel em:
   match result.
 \emph{{IOSR} Journal of Computer Engineering}, v.~17, n.~3, p. 21--26, jun
   2015.}
+
+\bibitem[L 2019]{Andrei2019}
+\abntrefinfo{L}{L}{2019a}
+{L, A. \emph{O Que é HTML? Guia Básico Para Iniciantes}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/}.}
+
+\bibitem[L 2019]{Andrei2019a}
+\abntrefinfo{L}{L}{2019b}
+{L, A. \emph{O Que é JavaScript e Como Funciona}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.weblink.com.br/blog/programacao/o-que-e-javascript/}.}
+
+\bibitem[L 2019]{Andrei2019b}
+\abntrefinfo{L}{L}{2019c}
+{L, A. \emph{O que é PHP}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.weblink.com.br/blog/php/o-que-e-php-conheca/}.}
 
 \bibitem[Martins et al. 2017]{Martins2017}
 \abntrefinfo{Martins et al.}{MARTINS et al.}{2017}

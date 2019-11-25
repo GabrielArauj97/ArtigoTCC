@@ -174,17 +174,10 @@
 
 @Misc{Ariane2019,
   author = {Ariane G},
-  month  = aug,
+  month  = {Agosto},
   title  = {O que é CSS? Guia Básico para Iniciantes},
   year   = {2019},
   url    = {https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/},
-}
-
-@Misc{Goncalves2012,
-  author = {Eduardo Corrêa Gonçalves},
-  title  = {Mineração de dados no MySQL com a ferramenta Weka},
-  year   = {2012},
-  url    = {https://www.devmedia.com.br/mineracao-de-dados-no-mysql-com-a-ferramenta-weka/26360},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

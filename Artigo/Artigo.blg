@@ -13,6 +13,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: Artigo.bib
+Warning--I didn't find a database entry for "FootballData"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Name 1 in "Farzin Owramipur, Parinaz Eskandarian, and Faezeh Sadat Mozneb" has a comma at the end for entry Parinaz2013
 while executing---line 2091 of file abntex2-alf.bst
@@ -39,45 +40,45 @@ Warning--campo year vazio ou faltando em Weka
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 16 entries,
+You've used 21 entries,
             6714 wiz_defined-function locations,
-            1296 strings with 12052 characters,
-and the built_in function-call counts, 16924 in all, are:
-= -- 1704
-> -- 506
-< -- 261
-+ -- 465
-- -- 152
-* -- 1174
-:= -- 2208
-add.period$ -- 49
-call.type$ -- 16
-change.case$ -- 166
-chr.to.int$ -- 37
-cite$ -- 16
-duplicate$ -- 1261
-empty$ -- 816
-format.name$ -- 714
-if$ -- 3603
-int.to.chr$ -- 0
+            1323 strings with 12761 characters,
+and the built_in function-call counts, 26422 in all, are:
+= -- 2960
+> -- 581
+< -- 608
++ -- 839
+- -- 177
+* -- 1696
+:= -- 3341
+add.period$ -- 69
+call.type$ -- 21
+change.case$ -- 196
+chr.to.int$ -- 40
+cite$ -- 21
+duplicate$ -- 2422
+empty$ -- 1101
+format.name$ -- 829
+if$ -- 5354
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 271
-newline$ -- 86
-num.names$ -- 75
-pop$ -- 365
+missing$ -- 351
+newline$ -- 111
+num.names$ -- 100
+pop$ -- 470
 preamble$ -- 1
-purify$ -- 64
+purify$ -- 79
 quote$ -- 0
-skip$ -- 1392
+skip$ -- 2592
 stack$ -- 1
-substring$ -- 637
-swap$ -- 506
-text.length$ -- 22
+substring$ -- 1074
+swap$ -- 898
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 6
 warning$ -- 1
-while$ -- 106
+while$ -- 141
 width$ -- 0
-write$ -- 243
+write$ -- 313
 (There were 8 error messages)
