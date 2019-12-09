@@ -2,32 +2,40 @@
 Machine Learning, termo em inglês para aprendizagem de máquina, é a capacidade de computadores aprenderem a tomarem decisões sem que sejam previamente programados para isso. Esse aprendizado, assim como acontece boa parte do aprendizado humano, se dá através de erros e acertos, que são obtidos através de algoritmos matemáticos. Esses algoritmos matemáticos trabalham classificando variáveis, por exemplo, queremos que um computador seja capaz de distinguir um ser humano de um gavião. Para que o computador seja capaz de fazer essa distinção, fornecemos variáveis que serão utilizadas pelos algoritmos matemáticos para realizar as classificações. Nesse caso, fornecemos variáveis como, possui asas, capacidade de falar, capacidade de voar, capacidade de caminhar, possui bico, põe ovos, entre outras. Assim, após o algoritmo analisar os dados, o computador poderá distinguir com facilidade humanos de gaviões. 
 É importante frisar que a qualidade da classificação se dá pela qualidade das variáveis, porque se utilizarmos variáveis como, possui olhos, respira, possui dedos ou ate mesmo se alimenta, nesse exemplo isso seria inútil para o algoritmo, uma vez que ambos os elementos comparados possuem essas características, assim, além de ser desprezível para o algoritmo, poderia até ser prejudicial para sua execução. 
 O objetivo desse projeto é criar um sistema que ajude no tratamento de dados para predição de partidas de futebol, sendo assim, utilizamos durante a execução do projeto bases de dados disponíveis no site Football-Data \cite{FootballData2019}, e algumas das variáveis que utilizadas foram:
-\begin{itemize}
-	\item FTHG = Full Time Home Goals (Gols do time da casa no jogo)
-	\item FTAG = Full Time Away Team Goals (Gols do time visitante no jogo)
-	\item FTR = Full Time Result (Resultado do jogo)
-	\item HTHG = Half Time Home Team Goals (Gols do time da casa no primeiro tempo)
-	\item HTAG = Half Time Away Team Goals (Gols do time visitante no primeiro tempo)
-	\item HTR = Half Time Result (Resultado do primeiro tempo)
-	\item HS = Home Team Shots (Finalizações do time da casa)
-	\item AS = Away Team Shots (Finalizações do time visitante)
-	\item HST = Home Team Shots on Target (Finalizações certas do time da casa)
-	\item AST = Away Team Shots on Target (Finalizações certas do time visitante)
-	\item HHW = Home Team Hit Woodwork (Chutes na trave do time da casa)
-	\item AHW = Away Team Hit Woodwork (Chutes na trave do time visitante)
-	\item HC = Home Team Corners (Escanteios do time da casa)
-	\item AC = Away Team Corners (escanteios do time visitante)
-	\item HF = Home Team Fouls Committed (Faltas cometidas pelo time da casa)
-	\item AF = Away Team Fouls Committed (Faltas cometidas pelo time visitante)
-	\item HFKC = Home Team Free Kicks Conceded (Tiros de meta cedidos pelo time da casa)
-	\item AFKC = Away Team Free Kicks Conceded (Tiros de meta cedidos pelo time visitante)
-	\item HO = Home Team Offsides (Impedimentos do time da casa)
-	\item AO = Away Team Offsides (Impedimentos do time visitante)
-	\item HY = Home Team Yellow Cards (Cartões amarelos do time da casa)
-	\item AY = Away Team Yellow Cards (Cartões amarelos do time visitante)
-	\item HR = Home Team Red Cards (Cartões vermelhos do time da casa)
-	\item AR = Away Team Red Cards (Cartões vermelhos do time visitante)
-\end{itemize}
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+\begin{table}[]
+	\begin{tabular}{@{}|c|c|@{}}
+		\toprule
+		\multicolumn{2}{|c|}{\textbf{Variaveis utilizadas}}                              \\ \midrule
+		FTHG & Full Time Home Goals (Gols do time da casa no jogo)                       \\ \midrule
+		FTAG & Full Time Away Team Goals (Gols do time visitante no jogo)                \\ \midrule
+		FTR  & Full Time Result (Resultado do jogo)                                      \\ \midrule
+		HTHG & Half Time Home Team Goals (Gols do time da casa no primeiro tempo)        \\ \midrule
+		HTAG & Half Time Away Team Goals (Gols do time visitante no primeiro tempo)      \\ \midrule
+		HTR  & Half Time Result (Resultado do primeiro tempo)                            \\ \midrule
+		HS   & Home Team Shots (Finalizações do time da casa)                            \\ \midrule
+		AS   & Away Team Shots (Finalizações do time visitante)                          \\ \midrule
+		HST  & Home Team Shots on Target (Finalizações certas do time da casa)           \\ \midrule
+		AST  & Away Team Shots on Target (Finalizações certas do time visitante)         \\ \midrule
+		HHW  & Home Team Hit Woodwork (Chutes na trave do time da casa)                  \\ \midrule
+		AHW  & Away Team Hit Woodwork (Chutes na trave do time visitante)                \\ \midrule
+		HC   & Home Team Corners (Escanteios do time da casa)                            \\ \midrule
+		AC   & Away Team Corners (escanteios do time visitante)                          \\ \midrule
+		HF   & Home Team Fouls Committed (Faltas cometidas pelo time da casa)            \\ \midrule
+		AF   & Away Team Fouls Committed (Faltas cometidas pelo time visitante)          \\ \midrule
+		HFKC & Home Team Free Kicks Conceded (Tiros de meta cedidos pelo time da casa)   \\ \midrule
+		AFKC & Away Team Free Kicks Conceded (Tiros de meta cedidos pelo time visitante) \\ \midrule
+		HO   & Home Team Offsides (Impedimentos do time da casa)                         \\ \midrule
+		AO   & Away Team Offsides (Impedimentos do time visitante)                       \\ \midrule
+		HY   & Home Team Yellow Cards (Cartões amarelos do time da casa)                 \\ \midrule
+		AY   & Away Team Yellow Cards (Cartões amarelos do time visitante)               \\ \midrule
+		HR   & Home Team Red Cards (Cartões vermelhos do time da casa)                   \\ \midrule
+		AR   & Away Team Red Cards (Cartões vermelhos do time visitante)                 \\ \bottomrule
+	\end{tabular}
+\end{table}
+
+\newpage
 Essas variáveis apresentam importância significativa para os algoritmos, uma vez que podem determinar o andamento da partida e assim o resultado final.
 A imagem a seguir apresenta os resultados da classificação com as seguintes variáveis: FTHG, FTAG, FTR, HTHG, HTAG, HTR, HS, AS, HST, AST, HF, AF, HC, AC, HY, AY, HR, AR.
 
