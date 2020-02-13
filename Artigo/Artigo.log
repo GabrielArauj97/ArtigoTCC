@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.4)  9 DEC 2019 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.11)  12 FEB 2020 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -685,41 +685,41 @@ Overfull \hbox (4.39677pt too wide) in paragraph at lines 4--6
 ig-ni-fica \Lin-gua-gem de Marca[][]ao
  []
 
-[3] [4]) (./Desenvolvimento.tex
+[3] [4]) (./Desenvolvimento.tex [5]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 7.
 
-[5] [6] [7]
-<imagens/dados_completos.png, id=31, 500.87125pt x 190.7125pt>
+[6] [7]
+<imagens/dados_completos.png, id=32, 500.87125pt x 190.7125pt>
 File: imagens/dados_completos.png Graphic file (type png)
 <use imagens/dados_completos.png>
 Package pdftex.def Info: imagens/dados_completos.png  used on input line 44.
 (pdftex.def)             Requested size: 409.71692pt x 156.00986pt.
  [8 <./imagens/dados_completos.png>]
-<imagens/dados_incompletos.png, id=35, 492.84125pt x 184.69pt>
+<imagens/dados_incompletos.png, id=36, 492.84125pt x 184.69pt>
 File: imagens/dados_incompletos.png Graphic file (type png)
 <use imagens/dados_incompletos.png>
 Package pdftex.def Info: imagens/dados_incompletos.png  used on input line 57.
 (pdftex.def)             Requested size: 409.71692pt x 153.54628pt.
-<imagens/home.png, id=36, 1371.1225pt x 642.4pt>
+<imagens/home.png, id=37, 1371.1225pt x 642.4pt>
 File: imagens/home.png Graphic file (type png)
 <use imagens/home.png>
 Package pdftex.def Info: imagens/home.png  used on input line 73.
 (pdftex.def)             Requested size: 409.71692pt x 191.95691pt.
  [9 <./imagens/dados_incompletos.png> <./imagens/home.png>]
-<imagens/listagem.png, id=40, 1371.1225pt x 640.3925pt>
+<imagens/listagem.png, id=41, 1371.1225pt x 640.3925pt>
 File: imagens/listagem.png Graphic file (type png)
 <use imagens/listagem.png>
 Package pdftex.def Info: imagens/listagem.png  used on input line 83.
 (pdftex.def)             Requested size: 409.71692pt x 191.35704pt.
-<imagens/listagem2.png, id=41, 1371.1225pt x 642.4pt>
+<imagens/listagem2.png, id=42, 1371.1225pt x 642.4pt>
 File: imagens/listagem2.png Graphic file (type png)
 <use imagens/listagem2.png>
 Package pdftex.def Info: imagens/listagem2.png  used on input line 91.
 (pdftex.def)             Requested size: 409.71692pt x 191.95691pt.
  [10 <./imagens/listagem.png> <./imagens/listagem2.png>]
-<imagens/dados.png, id=45, 1371.1225pt x 638.385pt>
+<imagens/dados.png, id=46, 1371.1225pt x 638.385pt>
 File: imagens/dados.png Graphic file (type png)
 <use imagens/dados.png>
 Package pdftex.def Info: imagens/dados.png  used on input line 103.
@@ -738,17 +738,17 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4300 strings out of 492982
  58023 string characters out of 6134896
- 147394 words of memory out of 5000000
+ 144391 words of memory out of 5000000
  7728 multiletter control sequences out of 15000+600000
  19704 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,35p,1224b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,14n,35p,1056b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on Artigo.pdf (14 pages, 3918328 bytes).
+Output written on Artigo.pdf (14 pages, 3920423 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream

@@ -52,9 +52,9 @@ Dispon{\'\i}vel em: \url{https://www.football-data.co.uk/}.}
 Dispon{\'\i}vel em:
   \url{https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/}.}
 
-\bibitem[Gonçalves 2012]{Goncalves2012}
-\abntrefinfo{Gonçalves}{GONçALVES}{2012}
-{GONçALVES, E.~C. \emph{Mineração de dados no MySQL com a ferramenta Weka}.
+\bibitem[Goncalves 2012]{Goncalves2012}
+\abntrefinfo{Goncalves}{GONCALVES}{2012}
+{GONCALVES, E.~C. \emph{Mineração de dados no MySQL com a ferramenta Weka}.
   2012.
 Dispon{\'\i}vel em:
   \url{https://www.devmedia.com.br/mineracao-de-dados-no-mysql-com-a-ferramenta-weka/26360}.}
@@ -137,9 +137,9 @@ Unpublished, 2015.}
 \emph{Predicting Soccer Match Results in the English Premier League}.
 Tese (Doutorado) --- Stanford University, 2013.}
 
-\bibitem[Weka]{Weka}
-\abntrefinfo{Weka}{WEKA}{}
-{WEKA.
+\bibitem[Weka 2019]{Weka}
+\abntrefinfo{Weka}{WEKA}{2019}
+{WEKA. 2019.
 Dispon{\'\i}vel em: \url{https://www.cs.waikato.ac.nz/ml/weka/}.}
 
 \end{thebibliography}

@@ -33,7 +33,6 @@ Name 1 in "Farzin Owramipur, Parinaz Eskandarian, and Faezeh Sadat Mozneb" has a
 while executing---line 2146 of file abntex2-alf.bst
 Name 1 in "Farzin Owramipur, Parinaz Eskandarian, and Faezeh Sadat Mozneb" has a comma at the end for entry Parinaz2013
 while executing---line 2146 of file abntex2-alf.bst
-Warning--campo year vazio ou faltando em Weka
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
@@ -41,43 +40,43 @@ Warning--campo year vazio ou faltando em Weka
 +---------------------------------------------------------+
 You've used 22 entries,
             6714 wiz_defined-function locations,
-            1326 strings with 12833 characters,
-and the built_in function-call counts, 27630 in all, are:
-= -- 3102
+            1326 strings with 12832 characters,
+and the built_in function-call counts, 27682 in all, are:
+= -- 3109
 > -- 596
 < -- 641
 + -- 877
 - -- 182
-* -- 1764
-:= -- 3495
-add.period$ -- 73
+* -- 1770
+:= -- 3502
+add.period$ -- 74
 call.type$ -- 22
 change.case$ -- 202
 chr.to.int$ -- 41
-cite$ -- 22
-duplicate$ -- 2545
-empty$ -- 1158
+cite$ -- 21
+duplicate$ -- 2547
+empty$ -- 1164
 format.name$ -- 852
-if$ -- 5595
+if$ -- 5606
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 367
+missing$ -- 368
 newline$ -- 116
 num.names$ -- 105
-pop$ -- 491
+pop$ -- 494
 preamble$ -- 1
 purify$ -- 82
 quote$ -- 0
-skip$ -- 2723
+skip$ -- 2717
 stack$ -- 1
-substring$ -- 1125
-swap$ -- 940
+substring$ -- 1137
+swap$ -- 942
 text.length$ -- 28
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 6
-warning$ -- 1
-while$ -- 148
+warning$ -- 0
+while$ -- 149
 width$ -- 0
-write$ -- 327
+write$ -- 328
 (There were 8 error messages)
